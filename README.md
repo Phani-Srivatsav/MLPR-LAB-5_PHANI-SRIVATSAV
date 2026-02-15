@@ -8,7 +8,7 @@
 
 ## Objective
 The goal of this lab is to detect faces in images and group similar faces using clustering techniques.  
-We use OpenCV for face detection and K-Means clustering to group faces based on color features.
+
 
 
 ##  Tools & Libraries Used
