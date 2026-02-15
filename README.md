@@ -48,19 +48,23 @@ We use OpenCV for face detection and K-Means clustering to group faces based on 
 ## Results & Visualizations
 
 ###  Template Face Detection
-![Template Face Detection](template_detection.png)
+
+<img width="506" height="532" alt="template_face_detection" src="https://github.com/user-attachments/assets/3b26c988-35a9-47c8-b5a2-e71d9200bbce" />
 
 
 ###  Group Face Detection
-![Group Face Detection](group_detection.png)
+<img width="1596" height="1094" alt="Group_detection (1)" src="https://github.com/user-attachments/assets/44be42f7-9acd-41fd-98fb-0baee6a4eb92" />
 
 
-###  Initial Cluster Plot with Template
-![Initial Cluster Plot](cluster_plot.png)
+
+###  Initial Cluster Plot
+<img width="1294" height="697" alt="Cluster_plot" src="https://github.com/user-attachments/assets/a629bfb1-ea4a-4774-ad5c-58ace3d544aa" />
 
 
-###  Final Cluster Plot with Template
-![Final Cluster Plot](Cluster_plot_Shahi_taroor.png)
+
+###  Final Cluster Plot with Shashi Taroor
+<img width="1286" height="708" alt="Cluster_plot_Shah_taroor" src="https://github.com/user-attachments/assets/6ba9b021-87fb-44ca-b129-e8b0aa4713ef" />
+
 
 
 ## Observations
